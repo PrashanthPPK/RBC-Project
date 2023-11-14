@@ -8,15 +8,15 @@ Welcome to the MortgageBotX Project repository! This project aims to enhance the
 
 ## **Table of Contents**
 
-# Introduction
-# Feasibility Analysis
-# Solution Design
-# Prototypes
-# Evaluation Criteria
-# Cost-Benefit Analysis
-# ROI Calculations
-# Feasibility Analysis Details
-# Selected Solution Justification
+1. Introduction
+2. Feasibility Analysis
+3. Solution Design
+4. Prototypes
+5. Evaluation Criteria
+6. Cost-Benefit Analysis
+7. ROI Calculations
+8. Feasibility Analysis Details
+9. Selected Solution Justification
 
 #Documentation
 
