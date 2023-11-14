@@ -2,7 +2,7 @@
 
 # **MortgageBotX Project**
 
-# **Overview**
+**Overview**
 
 Welcome to the MortgageBotX Project repository! This project aims to enhance the customer experience for mortgage services at RBC by implementing an AI Chatbot solution. The Chatbot, named MortgageBotX, is designed to assist customers with mortgage-related queries, calculations, and provide a seamless interaction experience.
 
